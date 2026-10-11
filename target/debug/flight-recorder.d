@@ -1,0 +1,1 @@
+/Users/oleh/Desktop/Rust/flight-recorder/target/debug/flight-recorder: /Users/oleh/Desktop/Rust/flight-recorder/src/main.rs /Users/oleh/Desktop/Rust/flight-recorder/src/telemetry.rs
